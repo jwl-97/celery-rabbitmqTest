@@ -1,0 +1,4 @@
+[2021-11-04 08:10:28,409: WARNING/MainProcess] /Users/ljw/mq_test/django-celery-example/venv/lib/python3.9/site-packages/celery/fixups/django.py:203: UserWarning: Using settings.DEBUG leads to a memory
+            leak, never use this setting in production environments!
+  warnings.warn('''Using settings.DEBUG leads to a memory
+
