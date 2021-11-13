@@ -99,6 +99,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
 STATIC_URL = '/static/'
-
-CELERY_BROKER_URL = 'amqp://canna:canna1234@localhost/canna_host'. #broker url
-CELERY_RESULT_BACKEND = 'django-db' # result db
